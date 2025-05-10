@@ -1,4 +1,4 @@
-# Counsellor Panel
+# Journal App Panel
 
 A Spring Boot-based web application for counsellors to manage student enquiries with features like registration, login, dashboard, add/edit enquiry, and filtering.
 
